@@ -1,0 +1,226 @@
+---
+title: "LanguageAIProject"
+output: html_document
+date: "2025-03-25"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+##Loading packages
+
+```{r}
+library(dplyr)
+library(ggplot2)
+library(tidyverse)
+library(lme4)
+```
+
+
+##The prepping of the data
+
+
+
+```{r}
+#The Output_Full_withNUll file has null data for the demographic categories. This was to allow a comparison between the null persona and other personas using a mixed-effects model
+aidfwithnull <- read.csv("Output_Full_withNull.csv")
+aidfwithnull <- mutate(aidfwithnull, relent = outentail/120*100)
+aidfwithnull <- mutate(aidfwithnull, relcon = outcon/120*100)
+aidfwithnull <- mutate(aidfwithnull, relneu = outneu/120*100)
+aidfwithnull <- mutate(aidfwithnull, dif = (abs(inneu-relneu)+abs(inent-relent)+abs(incon-relcon))/2)
+aidfwithnull$age <- as.character(aidfwithnull$age)
+
+#Output_Full is a csv file with blank slots for the null persona's demographic information
+aidf <- read.csv("Output_Full.csv")
+aidf <- mutate(aidf, relent = outentail/120*100)
+aidf <- mutate(aidf, relcon = outcon/120*100)
+aidf <- mutate(aidf, relneu = outneu/120*100)
+aidf <- mutate(aidf, dif = (abs(inneu-relneu)+abs(inent-relent)+abs(incon-relcon))/2)
+
+```
+
+
+
+##Checking the null persona
+The following code checks models where null values for the demographic categories were added in the final output file. This is to make sure that we can compare the dif. scores (absolute difference between NLI predictions of humans and LLM) with the null persona.
+
+
+
+
+```{r}
+
+#These models below were to check whether the persona can be a predictor for the dif score.
+modelpeople = lmer(dif ~1+ (1|persona_nr) + (1|inentro), data = aidf)
+summary(modelpeople)
+modelwithoutpers = lmer(dif ~1 + (1|inentro), data = aidf)
+anova(modelpeople, modelwithoutpers)
+modelpeoplefixef = lmer(dif ~1+ persona_nr + (1|inentro), data = aidf)
+summary(modelpeoplefixef)
+
+anova(modelpeoplefixef, modelwithoutpers)
+
+
+#These models below were again to check but then with null data in the demographic slots.
+
+
+
+modelallwithnull = lmer(dif~1+ gender + nationality + education + age + (1+ gender + nationality + education + age|inentro), data = aidfwithnull)
+summary(modelallwithnull)
+modelonlyrandwithnull =lmer(dif~1+ (1+ gender + nationality + education + age|inentro), data = aidfwithnull)
+anova(modelonlyrandwithnull, modelallwithnull)
+summary(modelonlyrandwithnull)
+modelwoagenatwithnull = lmer(dif~1+ education + gender + (1+ gender + nationality + education + age|inentro), data = aidfwithnull)
+summary(modelwoagenatwithnull)
+anova(modelwoagenatwithnull, modelonlyrandwithnull)
+
+modelwoagenatinterwithnull = lmer(dif~1+ education + gender + education*gender + (1+ gender + nationality + education + age|inentro), data = aidfwithnull)
+summary(modelwoagenatinterwithnull)
+anova(modelwoagenatinterwithnull, modelwoagenatwithnull)
+
+
+```
+
+
+##Checking differences between entropy levels
+
+
+```{r}
+
+#To check for the influence of entropy on the dif score
+
+mentro = lm(dif~1+ entropylevel, data = aidf)
+summary(mentro)
+mentro2 = lm(dif ~1+ inentro, data= aidf)
+summary(mentro2)
+anova(mentro, mentro2)
+
+
+
+```
+
+
+
+
+
+
+
+##Checking differences between persona without null persona
+
+
+
+```{r}
+
+
+#To visualise the data
+hist(aidf$dif)
+aidf %>% ggplot(aes(x=dif, y=inentro))+geom_point(col= "plum")
+boxplot(dif ~inentro, col = "plum", aidf)
+boxplot(dif ~gender, col = "plum", aidf)
+boxplot(dif ~nationality, col = "plum", aidf)
+boxplot(dif ~education, col = "plum", aidf)
+boxplot(dif ~age, col = "plum", aidf)
+boxplot(dif ~gender*nationality, col="plum", aidf)
+
+#To remove the data for null persona
+aidf2 <- aidf %>% filter(persona_nr != 1)
+
+
+#This is model comparison
+modelall = lmer(dif~1+ gender + nationality + education + age + (1+ gender + nationality + education + age|inentro), data = aidf2)
+summary(modelall)
+modelonlyrand =lmer(dif~1+ (1+ gender + nationality + education + age|inentro), data = aidf2)
+anova(modelonlyrand, modelall)
+
+m1 = lmer(dif~1+ education + gender + (1+ gender + nationality + education + age|inentro), data = aidf2)
+summary(m1)
+anova(m1, modelonlyrand)
+
+mfinal = lmer(dif~1+ education + gender + education*gender + (1+ gender + nationality + education + age|inentro), data = aidf2)
+summary(m4)
+anova(mfinal, m1)
+
+m4 = lmer(dif~1+ education + gender + education*gender + (1+ gender + education |inentro), data = aidf2)
+anova(m1, m4)
+anova(mfinal, m4)
+
+#These anovas above show that 'mfinal' is the best fitting model
+
+#Visualisation
+boxplot(dif ~gender*education, col="plum", aidf)
+
+summary(mfinal)
+
+
+
+# Ensure correct factor order
+aidf2$entrolevel <- factor(aidf2$entrolevel, levels = c("Low", "Medium", "High"))
+aidf2$education <- factor(aidf2$education, levels = c("highschool", "college", "graduateschool"))
+
+# Create the boxplot
+ggplot(aidf2, aes(x = gender, y = dif, fill = education)) +
+  geom_boxplot(position = position_dodge(width = 0.8)) +  # Dodge to separate gender groups
+  facet_grid(. ~ entrolevel) +  # Gender facets separately
+  labs(title = "Difference Score by Gender and Education",
+       x = "Entropy Level", y = "DIF Score") +
+  scale_fill_manual(values = c("highschool" = "pink", "college" = "lightblue", "graduateschool" = "darkseagreen2")) +
+  theme_minimal()
+
+
+
+```
+
+## Model comparison steps
+
+Below are the different models we compared with each other. 
+
+```{r}
+model1 = lmer(dif~ 1+ (1|inentro), data = aidf)
+print(summary(model1))
+model2.1 = lmer(dif~ 1+ gender + (1|inentro), data = aidf)
+print(summary(model2))
+model3 = lmer(dif~ 1+ gender + nationality + (1|inentro), data = aidf)
+print(summary(model3))
+model4 = lmer(dif~ (1|inentro)+gender+nationality+education, data = aidf)
+print(summary(model4))
+model5= lmer(dif~ (1|inentro)+gender+nationality+education+age, data=aidf)
+summary(model5)
+
+modela = lmer(dif~1+ gender + nationality + education + age + (1+ gender + education + age|inentro), data = aidf)
+
+anova(modela, modelall)
+
+modelwofe = lmer(dif~1+ gender + nationality + education + age + (1|inentro), data = aidf)
+anova(modelwofe, modelall)
+
+
+
+modelwoage = lmer(dif~1+ gender + nationality + education + (1+ gender + nationality + education + age|inentro), data = aidf)
+anova(modelwoage, modelonlyrand)
+
+modelwoge = lmer(dif~1 + nationality + education + age + (1+ gender + nationality + education + age|inentro), data = aidf)
+anova(modelwoge, modelonlyrand)
+
+modelwonat = lmer(dif~1 + education + age + gender + (1+ gender + nationality + education + age|inentro), data = aidf)
+anova(modelwonat, modelonlyrand)
+
+modelwoned = lmer(dif~1 + nationality + age + gender + (1+ gender + nationality + education + age|inentro), data = aidf)
+anova(modelwoned, modelonlyrand)
+
+
+
+```
+
+
+
+
+
+
+
+
+
+
+
+

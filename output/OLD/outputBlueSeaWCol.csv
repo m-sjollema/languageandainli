@@ -1,0 +1,98 @@
+persona;context;statement;option_1;option_2;option_3;selected_option;selected_option_value;;MaikeVal
+You are a white male;The blue sea sparkles;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true;;1
+You are a white male;The blue sea sparkles;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true;;1
+You are a white male;The blue sea sparkles;The sea is blue;Definitely false;Definitely true;Neither true nor false;a;Definitely false;;2
+You are a white male;The blue sea sparkles;The sea is blue;Definitely false;Neither true nor false;Definitely true;a;Definitely false;;2
+You are a white male;The blue sea sparkles;The sea is blue;Neither true nor false;Definitely true;Definitely false;b;Definitely true;;1
+You are a white male;The blue sea sparkles;The sea is blue;Neither true nor false;Definitely false;Definitely true;b;Definitely false;;2
+You are a white male;The blue sea sparkles;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true;;1
+You are a white male;The blue sea sparkles;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true;;1
+You are a white male;The blue sea sparkles;The sea is blue;Definitely false;Definitely true;Neither true nor false;a;Definitely false;;2
+You are a white male;The blue sea sparkles;The sea is blue;Definitely false;Neither true nor false;Definitely true;a;Definitely false;;2
+You are a white male;The blue sea sparkles;The sea is blue;Neither true nor false;Definitely true;Definitely false;b;Definitely true;;1
+You are a white male;The blue sea sparkles;The sea is blue;Neither true nor false;Definitely false;Definitely true;b;Definitely false;;2
+You are a white male;The sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true;;1
+You are a white male;The sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true;;1
+You are a white male;The sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;a;Definitely false;;2
+You are a white male;The sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;a;Definitely false;;2
+You are a white male;The sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;b;Definitely true;;1
+You are a white male;The sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;b;Definitely false;;2
+You are a white male;The sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true;;1
+You are a white male;The sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true;;1
+You are a white male;The sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;a;Definitely false;;2
+You are a white male;The sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;a;Definitely false;;2
+You are a white male;The sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;a;Neither true nor false;;3
+You are a white male;The sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;a;Neither true nor false;;3
+You are a white male;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true;;1
+You are a white male;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true;;1
+You are a white male;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;b;Definitely true;;1
+You are a white male;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;a;Definitely false;;2
+You are a white male;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;b;Definitely true;;1
+You are a white male;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;c;Definitely true;;1
+You are a white male;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true;;1
+You are a white male;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true;;1
+You are a white male;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;b;Definitely true;;1
+You are a white male;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;b;Neither true nor false;;3
+You are a white male;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;b;Definitely true;;1
+You are a white male;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;c;Definitely true;;1
+You are a white male;The grey sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;c;Neither true nor false;;3
+You are a white male;The grey sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;b;Neither true nor false;;3
+You are a white male;The grey sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;a;Definitely false;;2
+You are a white male;The grey sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;a;Definitely false;;2
+You are a white male;The grey sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;a;Neither true nor false;;3
+You are a white male;The grey sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;b;Definitely false;;2
+You are a white male;The grey sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;c;Neither true nor false;;3
+You are a white male;The grey sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;b;Neither true nor false;;3
+You are a white male;The grey sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;a;Definitely false;;2
+You are a white male;The grey sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;a;Definitely false;;2
+You are a white male;The grey sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;a;Neither true nor false;;3
+You are a white male;The grey sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;b;Definitely false;;2
+You are an alien and on your planet you have green seas;The blue sea sparkles;The sea is blue;Definitely true;Definitely false;Neither true nor false;c;Neither true nor false;;3
+You are an alien and on your planet you have green seas;The blue sea sparkles;The sea is blue;Definitely true;Neither true nor false;Definitely false;b;Neither true nor false;;3
+You are an alien and on your planet you have green seas;The blue sea sparkles;The sea is blue;Definitely false;Definitely true;Neither true nor false;a;Definitely false;;2
+You are an alien and on your planet you have green seas;The blue sea sparkles;The sea is blue;Definitely false;Neither true nor false;Definitely true;a;Definitely false;;2
+You are an alien and on your planet you have green seas;The blue sea sparkles;The sea is blue;Neither true nor false;Definitely true;Definitely false;a;Neither true nor false;;3
+You are an alien and on your planet you have green seas;The blue sea sparkles;The sea is blue;Neither true nor false;Definitely false;Definitely true;b;Definitely false;;2
+You are an alien and on your planet you have green seas;The blue sea sparkles;The sea is blue;Definitely true;Definitely false;Neither true nor false;c;Neither true nor false;;3
+You are an alien and on your planet you have green seas;The blue sea sparkles;The sea is blue;Definitely true;Neither true nor false;Definitely false;b;Neither true nor false;;3
+You are an alien and on your planet you have green seas;The blue sea sparkles;The sea is blue;Definitely false;Definitely true;Neither true nor false;a;Definitely false;;2
+You are an alien and on your planet you have green seas;The blue sea sparkles;The sea is blue;Definitely false;Neither true nor false;Definitely true;a;Definitely false;;2
+You are an alien and on your planet you have green seas;The blue sea sparkles;The sea is blue;Neither true nor false;Definitely true;Definitely false;c;Definitely false;;2
+You are an alien and on your planet you have green seas;The blue sea sparkles;The sea is blue;Neither true nor false;Definitely false;Definitely true;b;Definitely false;;2
+You are an alien and on your planet you have green seas;The sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;c;Neither true nor false;;3
+You are an alien and on your planet you have green seas;The sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;c;Definitely false;;2
+You are an alien and on your planet you have green seas;The sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;a;Definitely false;;2
+You are an alien and on your planet you have green seas;The sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;a;Definitely false;;2
+You are an alien and on your planet you have green seas;The sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;a;Neither true nor false;;3
+You are an alien and on your planet you have green seas;The sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;b;Definitely false;;2
+You are an alien and on your planet you have green seas;The sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;c;Neither true nor false;;3
+You are an alien and on your planet you have green seas;The sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;c;Definitely false;;2
+You are an alien and on your planet you have green seas;The sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;a;Definitely false;;2
+You are an alien and on your planet you have green seas;The sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;a;Definitely false;;2
+You are an alien and on your planet you have green seas;The sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;a;Neither true nor false;;3
+You are an alien and on your planet you have green seas;The sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;b;Definitely false;;2
+You are an alien and on your planet you have green seas;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;c;Neither true nor false;;3
+You are an alien and on your planet you have green seas;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;b;Neither true nor false;;3
+You are an alien and on your planet you have green seas;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;a;Definitely false;;2
+You are an alien and on your planet you have green seas;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;a;Definitely false;;2
+You are an alien and on your planet you have green seas;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;a;Neither true nor false;;3
+You are an alien and on your planet you have green seas;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;b;Definitely false;;2
+You are an alien and on your planet you have green seas;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;b;Definitely false;;2
+You are an alien and on your planet you have green seas;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;b;Neither true nor false;;3
+You are an alien and on your planet you have green seas;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;a;Definitely false;;2
+You are an alien and on your planet you have green seas;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;a;Definitely false;;2
+You are an alien and on your planet you have green seas;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;a;Neither true nor false;;3
+You are an alien and on your planet you have green seas;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;b;Definitely false;;2
+You are an alien and on your planet you have green seas;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;a;Neither true nor false;;3
+You are an alien and on your planet you have green seas;The grey sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;c;Neither true nor false;;3
+You are an alien and on your planet you have green seas;The grey sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;b;Neither true nor false;;3
+You are an alien and on your planet you have green seas;The grey sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;a;Definitely false;;2
+You are an alien and on your planet you have green seas;The grey sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;a;Definitely false;;2
+You are an alien and on your planet you have green seas;The grey sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;a;Neither true nor false;;3
+You are an alien and on your planet you have green seas;The grey sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;b;Definitely false;;2
+You are an alien and on your planet you have green seas;The grey sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;c;Neither true nor false;;3
+You are an alien and on your planet you have green seas;The grey sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;b;Neither true nor false;;3
+You are an alien and on your planet you have green seas;The grey sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;a;Definitely false;;2
+You are an alien and on your planet you have green seas;The grey sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;a;Definitely false;;2
+You are an alien and on your planet you have green seas;The grey sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;a;Neither true nor false;;3
+You are an alien and on your planet you have green seas;The grey sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;b;Definitely false;;2

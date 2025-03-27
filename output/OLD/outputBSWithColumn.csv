@@ -1,0 +1,49 @@
+persona;context;statement;option_1;option_2;option_3;selected_option;selected_option_value
+You are a white male;The blue sea sparkels;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true
+You are a white male;The blue sea sparkels;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true
+You are a white male;The blue sea sparkels;The sea is blue;Definitely false;Definitely true;Neither true nor false;a;Definitely false
+You are a white male;The blue sea sparkels;The sea is blue;Definitely false;Neither true nor false;Definitely true;a;Definitely false
+You are a white male;The blue sea sparkels;The sea is blue;Neither true nor false;Definitely true;Definitely false;b;Definitely true
+You are a white male;The blue sea sparkels;The sea is blue;Neither true nor false;Definitely false;Definitely true;b;Definitely false
+You are a white male;The blue sea sparkels;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true
+You are a white male;The blue sea sparkels;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true
+You are a white male;The blue sea sparkels;The sea is blue;Definitely false;Definitely true;Neither true nor false;a;Definitely false
+You are a white male;The blue sea sparkels;The sea is blue;Definitely false;Neither true nor false;Definitely true;a;Definitely false
+You are a white male;The blue sea sparkels;The sea is blue;Neither true nor false;Definitely true;Definitely false;b;Definitely true
+You are a white male;The blue sea sparkels;The sea is blue;Neither true nor false;Definitely false;Definitely true;b;Definitely false
+You are a white male;The green bananas taste delicious;The bananas are disgusting;Definitely true;Definitely false;Neither true nor false;b;Definitely false
+You are a white male;The green bananas taste delicious;The bananas are disgusting;Definitely true;Neither true nor false;Definitely false;b;Neither true nor false
+You are a white male;The green bananas taste delicious;The bananas are disgusting;Definitely false;Definitely true;Neither true nor false;a;Definitely false
+You are a white male;The green bananas taste delicious;The bananas are disgusting;Definitely false;Neither true nor false;Definitely true;a;Definitely false
+You are a white male;The green bananas taste delicious;The bananas are disgusting;Neither true nor false;Definitely true;Definitely false;a;Neither true nor false
+You are a white male;The green bananas taste delicious;The bananas are disgusting;Neither true nor false;Definitely false;Definitely true;b;Definitely false
+You are a white male;The green bananas taste delicious;The bananas are disgusting;Definitely true;Definitely false;Neither true nor false;b;Definitely false
+You are a white male;The green bananas taste delicious;The bananas are disgusting;Definitely true;Neither true nor false;Definitely false;b;Neither true nor false
+You are a white male;The green bananas taste delicious;The bananas are disgusting;Definitely false;Definitely true;Neither true nor false;a;Definitely false
+You are a white male;The green bananas taste delicious;The bananas are disgusting;Definitely false;Neither true nor false;Definitely true;a;Definitely false
+You are a white male;The green bananas taste delicious;The bananas are disgusting;Neither true nor false;Definitely true;Definitely false;a;Neither true nor false
+You are a white male;The green bananas taste delicious;The bananas are disgusting;Neither true nor false;Definitely false;Definitely true;b;Definitely false
+You are a white male;We are eating pasta;The plant has orange fruits;Definitely true;Definitely false;Neither true nor false;c;Neither true nor false
+You are a white male;We are eating pasta;The plant has orange fruits;Definitely true;Neither true nor false;Definitely false;b;Neither true nor false
+You are a white male;We are eating pasta;The plant has orange fruits;Definitely false;Definitely true;Neither true nor false;a;Definitely false
+You are a white male;We are eating pasta;The plant has orange fruits;Definitely false;Neither true nor false;Definitely true;b;Neither true nor false
+You are a white male;We are eating pasta;The plant has orange fruits;Neither true nor false;Definitely true;Definitely false;a;Neither true nor false
+You are a white male;We are eating pasta;The plant has orange fruits;Neither true nor false;Definitely false;Definitely true;a;Neither true nor false
+You are a white male;We are eating pasta;The plant has orange fruits;Definitely true;Definitely false;Neither true nor false;c;Neither true nor false
+You are a white male;We are eating pasta;The plant has orange fruits;Definitely true;Neither true nor false;Definitely false;b;Neither true nor false
+You are a white male;We are eating pasta;The plant has orange fruits;Definitely false;Definitely true;Neither true nor false;a;Definitely false
+You are a white male;We are eating pasta;The plant has orange fruits;Definitely false;Neither true nor false;Definitely true;b;Neither true nor false
+You are a white male;We are eating pasta;The plant has orange fruits;Neither true nor false;Definitely true;Definitely false;a;Neither true nor false
+You are a white male;We are eating pasta;The plant has orange fruits;Neither true nor false;Definitely false;Definitely true;a;Neither true nor false
+You are an alien and on your planet you have green seas;The blue sea sparkels;The sea is blue;Definitely true;Definitely false;Neither true nor false;c;Neither true nor false
+You are an alien and on your planet you have green seas;The blue sea sparkels;The sea is blue;Definitely true;Neither true nor false;Definitely false;b;Neither true nor false
+You are an alien and on your planet you have green seas;The blue sea sparkels;The sea is blue;Definitely false;Definitely true;Neither true nor false;a;Definitely false
+You are an alien and on your planet you have green seas;The blue sea sparkels;The sea is blue;Definitely false;Neither true nor false;Definitely true;a;Definitely false
+You are an alien and on your planet you have green seas;The blue sea sparkels;The sea is blue;Neither true nor false;Definitely true;Definitely false;a;Neither true nor false
+You are an alien and on your planet you have green seas;The blue sea sparkels;The sea is blue;Neither true nor false;Definitely false;Definitely true;a;Neither true nor false
+You are an alien and on your planet you have green seas;The blue sea sparkels;The sea is blue;Definitely true;Definitely false;Neither true nor false;c;Neither true nor false
+You are an alien and on your planet you have green seas;The blue sea sparkels;The sea is blue;Definitely true;Neither true nor false;Definitely false;b;Neither true nor false
+You are an alien and on your planet you have green seas;The blue sea sparkels;The sea is blue;Definitely false;Definitely true;Neither true nor false;a;Definitely false
+You are an alien and on your planet you have green seas;The blue sea sparkels;The sea is blue;Definitely false;Neither true nor false;Definitely true;a;Definitely false
+You are an alien and on your planet you have green seas;The blue sea sparkels;The sea is blue;Neither true nor false;Definitely true;Definitely false;a;Neither true nor false
+You are an alien and on your planet you have green seas;The blue sea sparkels;The sea is blue;Neither true nor false;Definitely false;Definitely true;a;Neither true nor false

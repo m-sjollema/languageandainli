@@ -1,0 +1,649 @@
+persona;context;statement;option_1;option_2;option_3;selected_option;selected_option_value
+You are a 30-year-old White male with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true
+You are a 30-year-old White male with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true
+You are a 30-year-old White male with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;b;Definitely true
+You are a 30-year-old White male with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;c;Definitely true
+You are a 30-year-old White male with a high school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;b;Definitely true
+You are a 30-year-old White male with a high school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;c;Definitely true
+You are a 30-year-old White male with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true
+You are a 30-year-old White male with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true
+You are a 30-year-old White male with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;b;Definitely true
+You are a 30-year-old White male with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;c;Definitely true
+You are a 30-year-old White male with a high school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;b;Definitely true
+You are a 30-year-old White male with a high school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;a;Neither true nor false
+You are a 30-year-old White male with a college education.;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true
+You are a 30-year-old White male with a college education.;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true
+You are a 30-year-old White male with a college education.;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;b;Definitely true
+You are a 30-year-old White male with a college education.;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;c;Definitely true
+You are a 30-year-old White male with a college education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;b;Definitely true
+You are a 30-year-old White male with a college education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;a;Neither true nor false
+You are a 30-year-old White male with a college education.;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true
+You are a 30-year-old White male with a college education.;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true
+You are a 30-year-old White male with a college education.;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;b;Definitely true
+You are a 30-year-old White male with a college education.;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;c;Definitely true
+You are a 30-year-old White male with a college education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;a;Neither true nor false
+You are a 30-year-old White male with a college education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;c;Definitely true
+You are a 30-year-old White male with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true
+You are a 30-year-old White male with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true
+You are a 30-year-old White male with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;b;Definitely true
+You are a 30-year-old White male with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;c;Definitely true
+You are a 30-year-old White male with a graduate school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;b;Definitely true
+You are a 30-year-old White male with a graduate school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;c;Definitely true
+You are a 30-year-old White male with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true
+You are a 30-year-old White male with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true
+You are a 30-year-old White male with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;b;Definitely true
+You are a 30-year-old White male with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;c;Definitely true
+You are a 30-year-old White male with a graduate school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;b;Definitely true
+You are a 30-year-old White male with a graduate school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;a;Neither true nor false
+You are a 30-year-old White female with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true
+You are a 30-year-old White female with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true
+You are a 30-year-old White female with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;b;Definitely true
+You are a 30-year-old White female with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;c;Definitely true
+You are a 30-year-old White female with a high school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;b;Definitely true
+You are a 30-year-old White female with a high school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;c;Definitely true
+You are a 30-year-old White female with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true
+You are a 30-year-old White female with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true
+You are a 30-year-old White female with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;b;Definitely true
+You are a 30-year-old White female with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;c;Definitely true
+You are a 30-year-old White female with a high school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;a;Neither true nor false
+You are a 30-year-old White female with a high school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;a;Neither true nor false
+You are a 30-year-old White female with a college education.;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true
+You are a 30-year-old White female with a college education.;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true
+You are a 30-year-old White female with a college education.;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;b;Definitely true
+You are a 30-year-old White female with a college education.;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;c;Definitely true
+You are a 30-year-old White female with a college education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;b;Definitely true
+You are a 30-year-old White female with a college education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;a;Neither true nor false
+You are a 30-year-old White female with a college education.;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true
+You are a 30-year-old White female with a college education.;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true
+You are a 30-year-old White female with a college education.;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;b;Definitely true
+You are a 30-year-old White female with a college education.;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;c;Definitely true
+You are a 30-year-old White female with a college education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;b;Definitely true
+You are a 30-year-old White female with a college education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;c;Definitely true
+You are a 30-year-old White female with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true
+You are a 30-year-old White female with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true
+You are a 30-year-old White female with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;b;Definitely true
+You are a 30-year-old White female with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;c;Definitely true
+You are a 30-year-old White female with a graduate school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;b;Definitely true
+You are a 30-year-old White female with a graduate school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;a;Neither true nor false
+You are a 30-year-old White female with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true
+You are a 30-year-old White female with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true
+You are a 30-year-old White female with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;b;Definitely true
+You are a 30-year-old White female with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;c;Definitely true
+You are a 30-year-old White female with a graduate school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;b;Definitely true
+You are a 30-year-old White female with a graduate school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;c;Definitely true
+You are a 30-year-old Black male with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true
+You are a 30-year-old Black male with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true
+You are a 30-year-old Black male with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;b;Definitely true
+You are a 30-year-old Black male with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;c;Definitely true
+You are a 30-year-old Black male with a high school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;b;Definitely true
+You are a 30-year-old Black male with a high school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;c;Definitely true
+You are a 30-year-old Black male with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true
+You are a 30-year-old Black male with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true
+You are a 30-year-old Black male with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;b;Definitely true
+You are a 30-year-old Black male with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;c;Definitely true
+You are a 30-year-old Black male with a high school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;b;Definitely true
+You are a 30-year-old Black male with a high school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;c;Definitely true
+You are a 30-year-old Black male with a college education.;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true
+You are a 30-year-old Black male with a college education.;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true
+You are a 30-year-old Black male with a college education.;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;b;Definitely true
+You are a 30-year-old Black male with a college education.;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;c;Definitely true
+You are a 30-year-old Black male with a college education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;b;Definitely true
+You are a 30-year-old Black male with a college education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;c;Definitely true
+You are a 30-year-old Black male with a college education.;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true
+You are a 30-year-old Black male with a college education.;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true
+You are a 30-year-old Black male with a college education.;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;b;Definitely true
+You are a 30-year-old Black male with a college education.;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;c;Definitely true
+You are a 30-year-old Black male with a college education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;b;Definitely true
+You are a 30-year-old Black male with a college education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;c;Definitely true
+You are a 30-year-old Black male with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true
+You are a 30-year-old Black male with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true
+You are a 30-year-old Black male with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;b;Definitely true
+You are a 30-year-old Black male with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;c;Definitely true
+You are a 30-year-old Black male with a graduate school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;b;Definitely true
+You are a 30-year-old Black male with a graduate school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;c;Definitely true
+You are a 30-year-old Black male with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true
+You are a 30-year-old Black male with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true
+You are a 30-year-old Black male with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;b;Definitely true
+You are a 30-year-old Black male with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;c;Definitely true
+You are a 30-year-old Black male with a graduate school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;b;Definitely true
+You are a 30-year-old Black male with a graduate school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;a;Neither true nor false
+You are a 30-year-old Black female with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true
+You are a 30-year-old Black female with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true
+You are a 30-year-old Black female with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;b;Definitely true
+You are a 30-year-old Black female with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;c;Definitely true
+You are a 30-year-old Black female with a high school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;a;Neither true nor false
+You are a 30-year-old Black female with a high school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;c;Definitely true
+You are a 30-year-old Black female with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true
+You are a 30-year-old Black female with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true
+You are a 30-year-old Black female with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;b;Definitely true
+You are a 30-year-old Black female with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;c;Definitely true
+You are a 30-year-old Black female with a high school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;b;Definitely true
+You are a 30-year-old Black female with a high school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;c;Definitely true
+You are a 30-year-old Black female with a college education.;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true
+You are a 30-year-old Black female with a college education.;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true
+You are a 30-year-old Black female with a college education.;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;b;Definitely true
+You are a 30-year-old Black female with a college education.;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;c;Definitely true
+You are a 30-year-old Black female with a college education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;a;Neither true nor false
+You are a 30-year-old Black female with a college education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;c;Definitely true
+You are a 30-year-old Black female with a college education.;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true
+You are a 30-year-old Black female with a college education.;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true
+You are a 30-year-old Black female with a college education.;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;b;Definitely true
+You are a 30-year-old Black female with a college education.;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;c;Definitely true
+You are a 30-year-old Black female with a college education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;b;Definitely true
+You are a 30-year-old Black female with a college education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;c;Definitely true
+You are a 30-year-old Black female with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true
+You are a 30-year-old Black female with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true
+You are a 30-year-old Black female with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;b;Definitely true
+You are a 30-year-old Black female with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;c;Definitely true
+You are a 30-year-old Black female with a graduate school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;a;Neither true nor false
+You are a 30-year-old Black female with a graduate school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;c;Definitely true
+You are a 30-year-old Black female with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true
+You are a 30-year-old Black female with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true
+You are a 30-year-old Black female with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;b;Definitely true
+You are a 30-year-old Black female with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;c;Definitely true
+You are a 30-year-old Black female with a graduate school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;a;Neither true nor false
+You are a 30-year-old Black female with a graduate school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;c;Definitely true
+You are a 30-year-old Asian male with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true
+You are a 30-year-old Asian male with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true
+You are a 30-year-old Asian male with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;b;Definitely true
+You are a 30-year-old Asian male with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;c;Definitely true
+You are a 30-year-old Asian male with a high school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;b;Definitely true
+You are a 30-year-old Asian male with a high school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;a;Neither true nor false
+You are a 30-year-old Asian male with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true
+You are a 30-year-old Asian male with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true
+You are a 30-year-old Asian male with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;b;Definitely true
+You are a 30-year-old Asian male with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;c;Definitely true
+You are a 30-year-old Asian male with a high school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;b;Definitely true
+You are a 30-year-old Asian male with a high school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;a;Neither true nor false
+You are a 30-year-old Asian male with a college education.;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true
+You are a 30-year-old Asian male with a college education.;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true
+You are a 30-year-old Asian male with a college education.;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;b;Definitely true
+You are a 30-year-old Asian male with a college education.;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;c;Definitely true
+You are a 30-year-old Asian male with a college education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;b;Definitely true
+You are a 30-year-old Asian male with a college education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;c;Definitely true
+You are a 30-year-old Asian male with a college education.;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true
+You are a 30-year-old Asian male with a college education.;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true
+You are a 30-year-old Asian male with a college education.;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;b;Definitely true
+You are a 30-year-old Asian male with a college education.;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;c;Definitely true
+You are a 30-year-old Asian male with a college education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;b;Definitely true
+You are a 30-year-old Asian male with a college education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;c;Definitely true
+You are a 30-year-old Asian male with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true
+You are a 30-year-old Asian male with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true
+You are a 30-year-old Asian male with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;b;Definitely true
+You are a 30-year-old Asian male with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;c;Definitely true
+You are a 30-year-old Asian male with a graduate school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;b;Definitely true
+You are a 30-year-old Asian male with a graduate school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;c;Definitely true
+You are a 30-year-old Asian male with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true
+You are a 30-year-old Asian male with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true
+You are a 30-year-old Asian male with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;b;Definitely true
+You are a 30-year-old Asian male with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;c;Definitely true
+You are a 30-year-old Asian male with a graduate school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;b;Definitely true
+You are a 30-year-old Asian male with a graduate school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;c;Definitely true
+You are a 30-year-old Asian female with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true
+You are a 30-year-old Asian female with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true
+You are a 30-year-old Asian female with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;b;Definitely true
+You are a 30-year-old Asian female with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;c;Definitely true
+You are a 30-year-old Asian female with a high school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;a;Neither true nor false
+You are a 30-year-old Asian female with a high school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;c;Definitely true
+You are a 30-year-old Asian female with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true
+You are a 30-year-old Asian female with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true
+You are a 30-year-old Asian female with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;b;Definitely true
+You are a 30-year-old Asian female with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;c;Definitely true
+You are a 30-year-old Asian female with a high school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;b;Definitely true
+You are a 30-year-old Asian female with a high school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;c;Definitely true
+You are a 30-year-old Asian female with a college education.;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true
+You are a 30-year-old Asian female with a college education.;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true
+You are a 30-year-old Asian female with a college education.;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;b;Definitely true
+You are a 30-year-old Asian female with a college education.;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;c;Definitely true
+You are a 30-year-old Asian female with a college education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;b;Definitely true
+You are a 30-year-old Asian female with a college education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;c;Definitely true
+You are a 30-year-old Asian female with a college education.;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true
+You are a 30-year-old Asian female with a college education.;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true
+You are a 30-year-old Asian female with a college education.;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;b;Definitely true
+You are a 30-year-old Asian female with a college education.;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;c;Definitely true
+You are a 30-year-old Asian female with a college education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;b;Definitely true
+You are a 30-year-old Asian female with a college education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;c;Definitely true
+You are a 30-year-old Asian female with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true
+You are a 30-year-old Asian female with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true
+You are a 30-year-old Asian female with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;b;Definitely true
+You are a 30-year-old Asian female with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;c;Definitely true
+You are a 30-year-old Asian female with a graduate school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;a;Neither true nor false
+You are a 30-year-old Asian female with a graduate school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;c;Definitely true
+You are a 30-year-old Asian female with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true
+You are a 30-year-old Asian female with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true
+You are a 30-year-old Asian female with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;b;Definitely true
+You are a 30-year-old Asian female with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;c;Definitely true
+You are a 30-year-old Asian female with a graduate school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;b;Definitely true
+You are a 30-year-old Asian female with a graduate school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;c;Definitely true
+You are a 50-year-old White male with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true
+You are a 50-year-old White male with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true
+You are a 50-year-old White male with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;b;Definitely true
+You are a 50-year-old White male with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;c;Definitely true
+You are a 50-year-old White male with a high school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;b;Definitely true
+You are a 50-year-old White male with a high school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;c;Definitely true
+You are a 50-year-old White male with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true
+You are a 50-year-old White male with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true
+You are a 50-year-old White male with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;b;Definitely true
+You are a 50-year-old White male with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;c;Definitely true
+You are a 50-year-old White male with a high school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;b;Definitely true
+You are a 50-year-old White male with a high school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;c;Definitely true
+You are a 50-year-old White male with a college education.;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true
+You are a 50-year-old White male with a college education.;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true
+You are a 50-year-old White male with a college education.;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;b;Definitely true
+You are a 50-year-old White male with a college education.;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;c;Definitely true
+You are a 50-year-old White male with a college education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;b;Definitely true
+You are a 50-year-old White male with a college education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;c;Definitely true
+You are a 50-year-old White male with a college education.;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true
+You are a 50-year-old White male with a college education.;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true
+You are a 50-year-old White male with a college education.;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;b;Definitely true
+You are a 50-year-old White male with a college education.;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;c;Definitely true
+You are a 50-year-old White male with a college education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;b;Definitely true
+You are a 50-year-old White male with a college education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;c;Definitely true
+You are a 50-year-old White male with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true
+You are a 50-year-old White male with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true
+You are a 50-year-old White male with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;b;Definitely true
+You are a 50-year-old White male with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;c;Definitely true
+You are a 50-year-old White male with a graduate school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;b;Definitely true
+You are a 50-year-old White male with a graduate school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;a;Neither true nor false
+You are a 50-year-old White male with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true
+You are a 50-year-old White male with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true
+You are a 50-year-old White male with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;b;Definitely true
+You are a 50-year-old White male with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;c;Definitely true
+You are a 50-year-old White male with a graduate school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;b;Definitely true
+You are a 50-year-old White male with a graduate school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;a;Neither true nor false
+You are a 50-year-old White female with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true
+You are a 50-year-old White female with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true
+You are a 50-year-old White female with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;b;Definitely true
+You are a 50-year-old White female with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;c;Definitely true
+You are a 50-year-old White female with a high school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;b;Definitely true
+You are a 50-year-old White female with a high school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;c;Definitely true
+You are a 50-year-old White female with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true
+You are a 50-year-old White female with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true
+You are a 50-year-old White female with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;b;Definitely true
+You are a 50-year-old White female with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;c;Definitely true
+You are a 50-year-old White female with a high school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;a;Neither true nor false
+You are a 50-year-old White female with a high school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;c;Definitely true
+You are a 50-year-old White female with a college education.;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true
+You are a 50-year-old White female with a college education.;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true
+You are a 50-year-old White female with a college education.;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;b;Definitely true
+You are a 50-year-old White female with a college education.;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;c;Definitely true
+You are a 50-year-old White female with a college education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;b;Definitely true
+You are a 50-year-old White female with a college education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;c;Definitely true
+You are a 50-year-old White female with a college education.;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true
+You are a 50-year-old White female with a college education.;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true
+You are a 50-year-old White female with a college education.;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;b;Definitely true
+You are a 50-year-old White female with a college education.;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;c;Definitely true
+You are a 50-year-old White female with a college education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;a;Neither true nor false
+You are a 50-year-old White female with a college education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;c;Definitely true
+You are a 50-year-old White female with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true
+You are a 50-year-old White female with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true
+You are a 50-year-old White female with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;b;Definitely true
+You are a 50-year-old White female with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;c;Definitely true
+You are a 50-year-old White female with a graduate school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;b;Definitely true
+You are a 50-year-old White female with a graduate school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;a;Neither true nor false
+You are a 50-year-old White female with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true
+You are a 50-year-old White female with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true
+You are a 50-year-old White female with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;b;Definitely true
+You are a 50-year-old White female with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;c;Definitely true
+You are a 50-year-old White female with a graduate school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;b;Definitely true
+You are a 50-year-old White female with a graduate school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;c;Definitely true
+You are a 50-year-old Black male with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true
+You are a 50-year-old Black male with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true
+You are a 50-year-old Black male with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;b;Definitely true
+You are a 50-year-old Black male with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;c;Definitely true
+You are a 50-year-old Black male with a high school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;b;Definitely true
+You are a 50-year-old Black male with a high school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;c;Definitely true
+You are a 50-year-old Black male with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true
+You are a 50-year-old Black male with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true
+You are a 50-year-old Black male with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;b;Definitely true
+You are a 50-year-old Black male with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;c;Definitely true
+You are a 50-year-old Black male with a high school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;b;Definitely true
+You are a 50-year-old Black male with a high school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;c;Definitely true
+You are a 50-year-old Black male with a college education.;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true
+You are a 50-year-old Black male with a college education.;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true
+You are a 50-year-old Black male with a college education.;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;b;Definitely true
+You are a 50-year-old Black male with a college education.;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;c;Definitely true
+You are a 50-year-old Black male with a college education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;a;Neither true nor false
+You are a 50-year-old Black male with a college education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;a;Neither true nor false
+You are a 50-year-old Black male with a college education.;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true
+You are a 50-year-old Black male with a college education.;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true
+You are a 50-year-old Black male with a college education.;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;b;Definitely true
+You are a 50-year-old Black male with a college education.;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;c;Definitely true
+You are a 50-year-old Black male with a college education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;a;Neither true nor false
+You are a 50-year-old Black male with a college education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;c;Definitely true
+You are a 50-year-old Black male with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true
+You are a 50-year-old Black male with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true
+You are a 50-year-old Black male with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;b;Definitely true
+You are a 50-year-old Black male with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;c;Definitely true
+You are a 50-year-old Black male with a graduate school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;b;Definitely true
+You are a 50-year-old Black male with a graduate school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;c;Definitely true
+You are a 50-year-old Black male with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true
+You are a 50-year-old Black male with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true
+You are a 50-year-old Black male with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;b;Definitely true
+You are a 50-year-old Black male with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;c;Definitely true
+You are a 50-year-old Black male with a graduate school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;b;Definitely true
+You are a 50-year-old Black male with a graduate school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;c;Definitely true
+You are a 50-year-old Black female with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true
+You are a 50-year-old Black female with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true
+You are a 50-year-old Black female with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;b;Definitely true
+You are a 50-year-old Black female with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;c;Definitely true
+You are a 50-year-old Black female with a high school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;b;Definitely true
+You are a 50-year-old Black female with a high school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;a;Neither true nor false
+You are a 50-year-old Black female with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true
+You are a 50-year-old Black female with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true
+You are a 50-year-old Black female with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;b;Definitely true
+You are a 50-year-old Black female with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;c;Definitely true
+You are a 50-year-old Black female with a high school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;b;Definitely true
+You are a 50-year-old Black female with a high school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;c;Definitely true
+You are a 50-year-old Black female with a college education.;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true
+You are a 50-year-old Black female with a college education.;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true
+You are a 50-year-old Black female with a college education.;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;b;Definitely true
+You are a 50-year-old Black female with a college education.;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;c;Definitely true
+You are a 50-year-old Black female with a college education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;a;Neither true nor false
+You are a 50-year-old Black female with a college education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;a;Neither true nor false
+You are a 50-year-old Black female with a college education.;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true
+You are a 50-year-old Black female with a college education.;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true
+You are a 50-year-old Black female with a college education.;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;b;Definitely true
+You are a 50-year-old Black female with a college education.;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;c;Definitely true
+You are a 50-year-old Black female with a college education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;b;Definitely true
+You are a 50-year-old Black female with a college education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;a;Neither true nor false
+You are a 50-year-old Black female with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true
+You are a 50-year-old Black female with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true
+You are a 50-year-old Black female with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;b;Definitely true
+You are a 50-year-old Black female with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;c;Definitely true
+You are a 50-year-old Black female with a graduate school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;a;Neither true nor false
+You are a 50-year-old Black female with a graduate school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;c;Definitely true
+You are a 50-year-old Black female with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true
+You are a 50-year-old Black female with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true
+You are a 50-year-old Black female with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;b;Definitely true
+You are a 50-year-old Black female with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;c;Definitely true
+You are a 50-year-old Black female with a graduate school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;b;Definitely true
+You are a 50-year-old Black female with a graduate school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;c;Definitely true
+You are a 50-year-old Asian male with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true
+You are a 50-year-old Asian male with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true
+You are a 50-year-old Asian male with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;b;Definitely true
+You are a 50-year-old Asian male with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;c;Definitely true
+You are a 50-year-old Asian male with a high school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;b;Definitely true
+You are a 50-year-old Asian male with a high school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;c;Definitely true
+You are a 50-year-old Asian male with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true
+You are a 50-year-old Asian male with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true
+You are a 50-year-old Asian male with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;b;Definitely true
+You are a 50-year-old Asian male with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;c;Definitely true
+You are a 50-year-old Asian male with a high school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;b;Definitely true
+You are a 50-year-old Asian male with a high school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;c;Definitely true
+You are a 50-year-old Asian male with a college education.;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true
+You are a 50-year-old Asian male with a college education.;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true
+You are a 50-year-old Asian male with a college education.;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;b;Definitely true
+You are a 50-year-old Asian male with a college education.;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;c;Definitely true
+You are a 50-year-old Asian male with a college education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;b;Definitely true
+You are a 50-year-old Asian male with a college education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;c;Definitely true
+You are a 50-year-old Asian male with a college education.;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true
+You are a 50-year-old Asian male with a college education.;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true
+You are a 50-year-old Asian male with a college education.;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;b;Definitely true
+You are a 50-year-old Asian male with a college education.;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;c;Definitely true
+You are a 50-year-old Asian male with a college education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;a;Neither true nor false
+You are a 50-year-old Asian male with a college education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;c;Definitely true
+You are a 50-year-old Asian male with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true
+You are a 50-year-old Asian male with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true
+You are a 50-year-old Asian male with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;b;Definitely true
+You are a 50-year-old Asian male with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;c;Definitely true
+You are a 50-year-old Asian male with a graduate school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;b;Definitely true
+You are a 50-year-old Asian male with a graduate school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;c;Definitely true
+You are a 50-year-old Asian male with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true
+You are a 50-year-old Asian male with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true
+You are a 50-year-old Asian male with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;b;Definitely true
+You are a 50-year-old Asian male with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;c;Definitely true
+You are a 50-year-old Asian male with a graduate school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;b;Definitely true
+You are a 50-year-old Asian male with a graduate school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;a;Neither true nor false
+You are a 50-year-old Asian female with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true
+You are a 50-year-old Asian female with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true
+You are a 50-year-old Asian female with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;b;Definitely true
+You are a 50-year-old Asian female with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;c;Definitely true
+You are a 50-year-old Asian female with a high school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;b;Definitely true
+You are a 50-year-old Asian female with a high school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;c;Definitely true
+You are a 50-year-old Asian female with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true
+You are a 50-year-old Asian female with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true
+You are a 50-year-old Asian female with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;b;Definitely true
+You are a 50-year-old Asian female with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;c;Definitely true
+You are a 50-year-old Asian female with a high school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;b;Definitely true
+You are a 50-year-old Asian female with a high school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;c;Definitely true
+You are a 50-year-old Asian female with a college education.;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true
+You are a 50-year-old Asian female with a college education.;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true
+You are a 50-year-old Asian female with a college education.;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;b;Definitely true
+You are a 50-year-old Asian female with a college education.;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;c;Definitely true
+You are a 50-year-old Asian female with a college education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;a;Neither true nor false
+You are a 50-year-old Asian female with a college education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;c;Definitely true
+You are a 50-year-old Asian female with a college education.;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true
+You are a 50-year-old Asian female with a college education.;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true
+You are a 50-year-old Asian female with a college education.;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;b;Definitely true
+You are a 50-year-old Asian female with a college education.;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;c;Definitely true
+You are a 50-year-old Asian female with a college education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;b;Definitely true
+You are a 50-year-old Asian female with a college education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;c;Definitely true
+You are a 50-year-old Asian female with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true
+You are a 50-year-old Asian female with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true
+You are a 50-year-old Asian female with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;b;Definitely true
+You are a 50-year-old Asian female with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;c;Definitely true
+You are a 50-year-old Asian female with a graduate school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;b;Definitely true
+You are a 50-year-old Asian female with a graduate school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;c;Definitely true
+You are a 50-year-old Asian female with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true
+You are a 50-year-old Asian female with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true
+You are a 50-year-old Asian female with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;b;Definitely true
+You are a 50-year-old Asian female with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;c;Definitely true
+You are a 50-year-old Asian female with a graduate school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;b;Definitely true
+You are a 50-year-old Asian female with a graduate school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;c;Definitely true
+You are a 70-year-old White male with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true
+You are a 70-year-old White male with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true
+You are a 70-year-old White male with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;b;Definitely true
+You are a 70-year-old White male with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;c;Definitely true
+You are a 70-year-old White male with a high school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;b;Definitely true
+You are a 70-year-old White male with a high school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;c;Definitely true
+You are a 70-year-old White male with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true
+You are a 70-year-old White male with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true
+You are a 70-year-old White male with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;b;Definitely true
+You are a 70-year-old White male with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;c;Definitely true
+You are a 70-year-old White male with a high school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;b;Definitely true
+You are a 70-year-old White male with a high school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;c;Definitely true
+You are a 70-year-old White male with a college education.;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true
+You are a 70-year-old White male with a college education.;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true
+You are a 70-year-old White male with a college education.;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;b;Definitely true
+You are a 70-year-old White male with a college education.;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;c;Definitely true
+You are a 70-year-old White male with a college education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;b;Definitely true
+You are a 70-year-old White male with a college education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;a;Neither true nor false
+You are a 70-year-old White male with a college education.;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true
+You are a 70-year-old White male with a college education.;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true
+You are a 70-year-old White male with a college education.;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;b;Definitely true
+You are a 70-year-old White male with a college education.;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;c;Definitely true
+You are a 70-year-old White male with a college education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;b;Definitely true
+You are a 70-year-old White male with a college education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;c;Definitely true
+You are a 70-year-old White male with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true
+You are a 70-year-old White male with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true
+You are a 70-year-old White male with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;b;Definitely true
+You are a 70-year-old White male with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;c;Definitely true
+You are a 70-year-old White male with a graduate school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;b;Definitely true
+You are a 70-year-old White male with a graduate school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;c;Definitely true
+You are a 70-year-old White male with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true
+You are a 70-year-old White male with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true
+You are a 70-year-old White male with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;b;Definitely true
+You are a 70-year-old White male with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;c;Definitely true
+You are a 70-year-old White male with a graduate school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;a;Neither true nor false
+You are a 70-year-old White male with a graduate school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;c;Definitely true
+You are a 70-year-old White female with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true
+You are a 70-year-old White female with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true
+You are a 70-year-old White female with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;b;Definitely true
+You are a 70-year-old White female with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;c;Definitely true
+You are a 70-year-old White female with a high school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;a;Neither true nor false
+You are a 70-year-old White female with a high school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;c;Definitely true
+You are a 70-year-old White female with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true
+You are a 70-year-old White female with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true
+You are a 70-year-old White female with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;b;Definitely true
+You are a 70-year-old White female with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;c;Definitely true
+You are a 70-year-old White female with a high school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;b;Definitely true
+You are a 70-year-old White female with a high school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;a;Neither true nor false
+You are a 70-year-old White female with a college education.;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true
+You are a 70-year-old White female with a college education.;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true
+You are a 70-year-old White female with a college education.;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;b;Definitely true
+You are a 70-year-old White female with a college education.;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;c;Definitely true
+You are a 70-year-old White female with a college education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;a;Neither true nor false
+You are a 70-year-old White female with a college education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;c;Definitely true
+You are a 70-year-old White female with a college education.;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true
+You are a 70-year-old White female with a college education.;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true
+You are a 70-year-old White female with a college education.;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;b;Definitely true
+You are a 70-year-old White female with a college education.;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;c;Definitely true
+You are a 70-year-old White female with a college education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;a;Neither true nor false
+You are a 70-year-old White female with a college education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;a;Neither true nor false
+You are a 70-year-old White female with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true
+You are a 70-year-old White female with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true
+You are a 70-year-old White female with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;b;Definitely true
+You are a 70-year-old White female with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;c;Definitely true
+You are a 70-year-old White female with a graduate school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;b;Definitely true
+You are a 70-year-old White female with a graduate school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;c;Definitely true
+You are a 70-year-old White female with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true
+You are a 70-year-old White female with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true
+You are a 70-year-old White female with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;b;Definitely true
+You are a 70-year-old White female with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;c;Definitely true
+You are a 70-year-old White female with a graduate school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;b;Definitely true
+You are a 70-year-old White female with a graduate school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;a;Neither true nor false
+You are a 70-year-old Black male with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true
+You are a 70-year-old Black male with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true
+You are a 70-year-old Black male with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;b;Definitely true
+You are a 70-year-old Black male with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;c;Definitely true
+You are a 70-year-old Black male with a high school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;b;Definitely true
+You are a 70-year-old Black male with a high school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;a;Neither true nor false
+You are a 70-year-old Black male with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true
+You are a 70-year-old Black male with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true
+You are a 70-year-old Black male with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;b;Definitely true
+You are a 70-year-old Black male with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;c;Definitely true
+You are a 70-year-old Black male with a high school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;a;Neither true nor false
+You are a 70-year-old Black male with a high school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;c;Definitely true
+You are a 70-year-old Black male with a college education.;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true
+You are a 70-year-old Black male with a college education.;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true
+You are a 70-year-old Black male with a college education.;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;b;Definitely true
+You are a 70-year-old Black male with a college education.;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;c;Definitely true
+You are a 70-year-old Black male with a college education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;b;Definitely true
+You are a 70-year-old Black male with a college education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;c;Definitely true
+You are a 70-year-old Black male with a college education.;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true
+You are a 70-year-old Black male with a college education.;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true
+You are a 70-year-old Black male with a college education.;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;b;Definitely true
+You are a 70-year-old Black male with a college education.;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;c;Definitely true
+You are a 70-year-old Black male with a college education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;b;Definitely true
+You are a 70-year-old Black male with a college education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;c;Definitely true
+You are a 70-year-old Black male with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true
+You are a 70-year-old Black male with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true
+You are a 70-year-old Black male with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;b;Definitely true
+You are a 70-year-old Black male with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;c;Definitely true
+You are a 70-year-old Black male with a graduate school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;b;Definitely true
+You are a 70-year-old Black male with a graduate school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;c;Definitely true
+You are a 70-year-old Black male with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true
+You are a 70-year-old Black male with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true
+You are a 70-year-old Black male with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;b;Definitely true
+You are a 70-year-old Black male with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;c;Definitely true
+You are a 70-year-old Black male with a graduate school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;b;Definitely true
+You are a 70-year-old Black male with a graduate school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;c;Definitely true
+You are a 70-year-old Black female with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true
+You are a 70-year-old Black female with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true
+You are a 70-year-old Black female with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;b;Definitely true
+You are a 70-year-old Black female with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;c;Definitely true
+You are a 70-year-old Black female with a high school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;a;Neither true nor false
+You are a 70-year-old Black female with a high school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;c;Definitely true
+You are a 70-year-old Black female with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true
+You are a 70-year-old Black female with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true
+You are a 70-year-old Black female with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;b;Definitely true
+You are a 70-year-old Black female with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;c;Definitely true
+You are a 70-year-old Black female with a high school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;b;Definitely true
+You are a 70-year-old Black female with a high school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;c;Definitely true
+You are a 70-year-old Black female with a college education.;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true
+You are a 70-year-old Black female with a college education.;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true
+You are a 70-year-old Black female with a college education.;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;b;Definitely true
+You are a 70-year-old Black female with a college education.;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;c;Definitely true
+You are a 70-year-old Black female with a college education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;b;Definitely true
+You are a 70-year-old Black female with a college education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;a;Neither true nor false
+You are a 70-year-old Black female with a college education.;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true
+You are a 70-year-old Black female with a college education.;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true
+You are a 70-year-old Black female with a college education.;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;b;Definitely true
+You are a 70-year-old Black female with a college education.;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;c;Definitely true
+You are a 70-year-old Black female with a college education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;b;Definitely true
+You are a 70-year-old Black female with a college education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;a;Neither true nor false
+You are a 70-year-old Black female with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true
+You are a 70-year-old Black female with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true
+You are a 70-year-old Black female with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;b;Definitely true
+You are a 70-year-old Black female with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;c;Definitely true
+You are a 70-year-old Black female with a graduate school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;b;Definitely true
+You are a 70-year-old Black female with a graduate school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;a;Neither true nor false
+You are a 70-year-old Black female with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true
+You are a 70-year-old Black female with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true
+You are a 70-year-old Black female with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;b;Definitely true
+You are a 70-year-old Black female with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;c;Definitely true
+You are a 70-year-old Black female with a graduate school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;a;Neither true nor false
+You are a 70-year-old Black female with a graduate school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;c;Definitely true
+You are a 70-year-old Asian male with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true
+You are a 70-year-old Asian male with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true
+You are a 70-year-old Asian male with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;b;Definitely true
+You are a 70-year-old Asian male with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;c;Definitely true
+You are a 70-year-old Asian male with a high school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;a;Neither true nor false
+You are a 70-year-old Asian male with a high school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;c;Definitely true
+You are a 70-year-old Asian male with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true
+You are a 70-year-old Asian male with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true
+You are a 70-year-old Asian male with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;b;Definitely true
+You are a 70-year-old Asian male with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;c;Definitely true
+You are a 70-year-old Asian male with a high school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;b;Definitely true
+You are a 70-year-old Asian male with a high school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;a;Neither true nor false
+You are a 70-year-old Asian male with a college education.;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true
+You are a 70-year-old Asian male with a college education.;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true
+You are a 70-year-old Asian male with a college education.;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;b;Definitely true
+You are a 70-year-old Asian male with a college education.;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;c;Definitely true
+You are a 70-year-old Asian male with a college education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;b;Definitely true
+You are a 70-year-old Asian male with a college education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;c;Definitely true
+You are a 70-year-old Asian male with a college education.;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true
+You are a 70-year-old Asian male with a college education.;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true
+You are a 70-year-old Asian male with a college education.;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;b;Definitely true
+You are a 70-year-old Asian male with a college education.;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;c;Definitely true
+You are a 70-year-old Asian male with a college education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;a;Neither true nor false
+You are a 70-year-old Asian male with a college education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;a;Neither true nor false
+You are a 70-year-old Asian male with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true
+You are a 70-year-old Asian male with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true
+You are a 70-year-old Asian male with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;b;Definitely true
+You are a 70-year-old Asian male with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;c;Definitely true
+You are a 70-year-old Asian male with a graduate school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;b;Definitely true
+You are a 70-year-old Asian male with a graduate school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;c;Definitely true
+You are a 70-year-old Asian male with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true
+You are a 70-year-old Asian male with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true
+You are a 70-year-old Asian male with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;b;Definitely true
+You are a 70-year-old Asian male with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;c;Definitely true
+You are a 70-year-old Asian male with a graduate school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;b;Definitely true
+You are a 70-year-old Asian male with a graduate school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;a;Neither true nor false
+You are a 70-year-old Asian female with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true
+You are a 70-year-old Asian female with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true
+You are a 70-year-old Asian female with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;b;Definitely true
+You are a 70-year-old Asian female with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;c;Definitely true
+You are a 70-year-old Asian female with a high school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;a;Neither true nor false
+You are a 70-year-old Asian female with a high school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;a;Neither true nor false
+You are a 70-year-old Asian female with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true
+You are a 70-year-old Asian female with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true
+You are a 70-year-old Asian female with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;b;Definitely true
+You are a 70-year-old Asian female with a high school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;c;Definitely true
+You are a 70-year-old Asian female with a high school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;a;Neither true nor false
+You are a 70-year-old Asian female with a high school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;a;Neither true nor false
+You are a 70-year-old Asian female with a college education.;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true
+You are a 70-year-old Asian female with a college education.;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true
+You are a 70-year-old Asian female with a college education.;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;b;Definitely true
+You are a 70-year-old Asian female with a college education.;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;c;Definitely true
+You are a 70-year-old Asian female with a college education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;b;Definitely true
+You are a 70-year-old Asian female with a college education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;c;Definitely true
+You are a 70-year-old Asian female with a college education.;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true
+You are a 70-year-old Asian female with a college education.;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true
+You are a 70-year-old Asian female with a college education.;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;b;Definitely true
+You are a 70-year-old Asian female with a college education.;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;c;Definitely true
+You are a 70-year-old Asian female with a college education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;a;Neither true nor false
+You are a 70-year-old Asian female with a college education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;c;Definitely true
+You are a 70-year-old Asian female with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true
+You are a 70-year-old Asian female with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true
+You are a 70-year-old Asian female with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;b;Definitely true
+You are a 70-year-old Asian female with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;c;Definitely true
+You are a 70-year-old Asian female with a graduate school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;b;Definitely true
+You are a 70-year-old Asian female with a graduate school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;a;Neither true nor false
+You are a 70-year-old Asian female with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Definitely false;Neither true nor false;a;Definitely true
+You are a 70-year-old Asian female with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely true;Neither true nor false;Definitely false;a;Definitely true
+You are a 70-year-old Asian female with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Definitely true;Neither true nor false;b;Definitely true
+You are a 70-year-old Asian female with a graduate school education.;The blue sea looks refreshing;The sea is blue;Definitely false;Neither true nor false;Definitely true;c;Definitely true
+You are a 70-year-old Asian female with a graduate school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely true;Definitely false;b;Definitely true
+You are a 70-year-old Asian female with a graduate school education.;The blue sea looks refreshing;The sea is blue;Neither true nor false;Definitely false;Definitely true;a;Neither true nor false

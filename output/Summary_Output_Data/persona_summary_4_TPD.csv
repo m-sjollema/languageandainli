@@ -1,0 +1,56 @@
+persona;Definitely true;Definitely false;Neither true nor false
+.;6;82;32
+You are a 30-year-old White male with a high school education.;0;96;24
+You are a 30-year-old White male with a college education.;0;98;22
+You are a 30-year-old White male with a graduate school education.;0;94;26
+You are a 30-year-old White female with a high school education.;0;95;25
+You are a 30-year-old White female with a college education.;0;100;20
+You are a 30-year-old White female with a graduate school education.;1;94;25
+You are a 30-year-old Black male with a high school education.;3;93;24
+You are a 30-year-old Black male with a college education.;1;94;25
+You are a 30-year-old Black male with a graduate school education.;0;93;27
+You are a 30-year-old Black female with a high school education.;0;90;30
+You are a 30-year-old Black female with a college education.;0;89;31
+You are a 30-year-old Black female with a graduate school education.;0;100;20
+You are a 30-year-old Asian male with a high school education.;0;92;28
+You are a 30-year-old Asian male with a college education.;1;93;26
+You are a 30-year-old Asian male with a graduate school education.;1;99;20
+You are a 30-year-old Asian female with a high school education.;0;93;27
+You are a 30-year-old Asian female with a college education.;0;88;32
+You are a 30-year-old Asian female with a graduate school education.;0;94;26
+You are a 50-year-old White male with a high school education.;0;99;21
+You are a 50-year-old White male with a college education.;0;94;26
+You are a 50-year-old White male with a graduate school education.;1;92;27
+You are a 50-year-old White female with a high school education.;0;93;27
+You are a 50-year-old White female with a college education.;0;94;26
+You are a 50-year-old White female with a graduate school education.;0;93;27
+You are a 50-year-old Black male with a high school education.;0;100;20
+You are a 50-year-old Black male with a college education.;0;97;23
+You are a 50-year-old Black male with a graduate school education.;0;95;25
+You are a 50-year-old Black female with a high school education.;0;97;23
+You are a 50-year-old Black female with a college education.;0;90;30
+You are a 50-year-old Black female with a graduate school education.;0;95;25
+You are a 50-year-old Asian male with a high school education.;0;96;24
+You are a 50-year-old Asian male with a college education.;0;86;34
+You are a 50-year-old Asian male with a graduate school education.;1;96;23
+You are a 50-year-old Asian female with a high school education.;1;90;29
+You are a 50-year-old Asian female with a college education.;0;95;25
+You are a 50-year-old Asian female with a graduate school education.;0;95;25
+You are a 70-year-old White male with a high school education.;0;93;27
+You are a 70-year-old White male with a college education.;0;100;20
+You are a 70-year-old White male with a graduate school education.;0;92;28
+You are a 70-year-old White female with a high school education.;0;99;21
+You are a 70-year-old White female with a college education.;0;89;31
+You are a 70-year-old White female with a graduate school education.;0;88;32
+You are a 70-year-old Black male with a high school education.;0;93;27
+You are a 70-year-old Black male with a college education.;1;91;28
+You are a 70-year-old Black male with a graduate school education.;2;95;23
+You are a 70-year-old Black female with a high school education.;0;95;25
+You are a 70-year-old Black female with a college education.;0;93;27
+You are a 70-year-old Black female with a graduate school education.;2;93;25
+You are a 70-year-old Asian male with a high school education.;0;93;27
+You are a 70-year-old Asian male with a college education.;0;99;21
+You are a 70-year-old Asian male with a graduate school education.;4;89;27
+You are a 70-year-old Asian female with a high school education.;1;88;31
+You are a 70-year-old Asian female with a college education.;1;91;28
+You are a 70-year-old Asian female with a graduate school education.;0;99;21

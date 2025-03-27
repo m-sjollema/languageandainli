@@ -1,0 +1,56 @@
+context;statement;persona;Definitely true;Definitely false;Neither true nor false
+A mother and her two children sit down to rest.;A mother and her daughters are resting.;.;81;10;29
+A mother and her two children sit down to rest.;A mother and her daughters are resting.;You are a 30-year-old White male with a high school education.;53;21;46
+A mother and her two children sit down to rest.;A mother and her daughters are resting.;You are a 30-year-old White male with a college education.;42;24;54
+A mother and her two children sit down to rest.;A mother and her daughters are resting.;You are a 30-year-old White male with a graduate school education.;49;25;46
+A mother and her two children sit down to rest.;A mother and her daughters are resting.;You are a 30-year-old White female with a high school education.;80;9;31
+A mother and her two children sit down to rest.;A mother and her daughters are resting.;You are a 30-year-old White female with a college education.;80;9;31
+A mother and her two children sit down to rest.;A mother and her daughters are resting.;You are a 30-year-old White female with a graduate school education.;89;6;25
+A mother and her two children sit down to rest.;A mother and her daughters are resting.;You are a 30-year-old Black male with a high school education.;49;19;52
+A mother and her two children sit down to rest.;A mother and her daughters are resting.;You are a 30-year-old Black male with a college education.;55;27;38
+A mother and her two children sit down to rest.;A mother and her daughters are resting.;You are a 30-year-old Black male with a graduate school education.;54;20;46
+A mother and her two children sit down to rest.;A mother and her daughters are resting.;You are a 30-year-old Black female with a high school education.;75;12;33
+A mother and her two children sit down to rest.;A mother and her daughters are resting.;You are a 30-year-old Black female with a college education.;92;9;19
+A mother and her two children sit down to rest.;A mother and her daughters are resting.;You are a 30-year-old Black female with a graduate school education.;82;8;30
+A mother and her two children sit down to rest.;A mother and her daughters are resting.;You are a 30-year-old Asian male with a high school education.;55;19;46
+A mother and her two children sit down to rest.;A mother and her daughters are resting.;You are a 30-year-old Asian male with a college education.;61;16;43
+A mother and her two children sit down to rest.;A mother and her daughters are resting.;You are a 30-year-old Asian male with a graduate school education.;67;15;38
+A mother and her two children sit down to rest.;A mother and her daughters are resting.;You are a 30-year-old Asian female with a high school education.;79;11;30
+A mother and her two children sit down to rest.;A mother and her daughters are resting.;You are a 30-year-old Asian female with a college education.;82;6;32
+A mother and her two children sit down to rest.;A mother and her daughters are resting.;You are a 30-year-old Asian female with a graduate school education.;89;5;26
+A mother and her two children sit down to rest.;A mother and her daughters are resting.;You are a 50-year-old White male with a high school education.;47;23;50
+A mother and her two children sit down to rest.;A mother and her daughters are resting.;You are a 50-year-old White male with a college education.;60;21;39
+A mother and her two children sit down to rest.;A mother and her daughters are resting.;You are a 50-year-old White male with a graduate school education.;57;17;46
+A mother and her two children sit down to rest.;A mother and her daughters are resting.;You are a 50-year-old White female with a high school education.;75;15;30
+A mother and her two children sit down to rest.;A mother and her daughters are resting.;You are a 50-year-old White female with a college education.;72;13;35
+A mother and her two children sit down to rest.;A mother and her daughters are resting.;You are a 50-year-old White female with a graduate school education.;74;16;30
+A mother and her two children sit down to rest.;A mother and her daughters are resting.;You are a 50-year-old Black male with a high school education.;58;26;36
+A mother and her two children sit down to rest.;A mother and her daughters are resting.;You are a 50-year-old Black male with a college education.;67;22;31
+A mother and her two children sit down to rest.;A mother and her daughters are resting.;You are a 50-year-old Black male with a graduate school education.;57;27;36
+A mother and her two children sit down to rest.;A mother and her daughters are resting.;You are a 50-year-old Black female with a high school education.;81;10;29
+A mother and her two children sit down to rest.;A mother and her daughters are resting.;You are a 50-year-old Black female with a college education.;84;11;25
+A mother and her two children sit down to rest.;A mother and her daughters are resting.;You are a 50-year-old Black female with a graduate school education.;79;10;31
+A mother and her two children sit down to rest.;A mother and her daughters are resting.;You are a 50-year-old Asian male with a high school education.;59;18;43
+A mother and her two children sit down to rest.;A mother and her daughters are resting.;You are a 50-year-old Asian male with a college education.;68;11;41
+A mother and her two children sit down to rest.;A mother and her daughters are resting.;You are a 50-year-old Asian male with a graduate school education.;79;11;30
+A mother and her two children sit down to rest.;A mother and her daughters are resting.;You are a 50-year-old Asian female with a high school education.;85;8;27
+A mother and her two children sit down to rest.;A mother and her daughters are resting.;You are a 50-year-old Asian female with a college education.;83;7;30
+A mother and her two children sit down to rest.;A mother and her daughters are resting.;You are a 50-year-old Asian female with a graduate school education.;82;7;31
+A mother and her two children sit down to rest.;A mother and her daughters are resting.;You are a 70-year-old White male with a high school education.;50;25;45
+A mother and her two children sit down to rest.;A mother and her daughters are resting.;You are a 70-year-old White male with a college education.;59;19;42
+A mother and her two children sit down to rest.;A mother and her daughters are resting.;You are a 70-year-old White male with a graduate school education.;56;17;47
+A mother and her two children sit down to rest.;A mother and her daughters are resting.;You are a 70-year-old White female with a high school education.;67;18;35
+A mother and her two children sit down to rest.;A mother and her daughters are resting.;You are a 70-year-old White female with a college education.;73;15;32
+A mother and her two children sit down to rest.;A mother and her daughters are resting.;You are a 70-year-old White female with a graduate school education.;75;11;34
+A mother and her two children sit down to rest.;A mother and her daughters are resting.;You are a 70-year-old Black male with a high school education.;61;16;43
+A mother and her two children sit down to rest.;A mother and her daughters are resting.;You are a 70-year-old Black male with a college education.;49;27;44
+A mother and her two children sit down to rest.;A mother and her daughters are resting.;You are a 70-year-old Black male with a graduate school education.;64;12;44
+A mother and her two children sit down to rest.;A mother and her daughters are resting.;You are a 70-year-old Black female with a high school education.;68;16;36
+A mother and her two children sit down to rest.;A mother and her daughters are resting.;You are a 70-year-old Black female with a college education.;87;10;23
+A mother and her two children sit down to rest.;A mother and her daughters are resting.;You are a 70-year-old Black female with a graduate school education.;85;12;23
+A mother and her two children sit down to rest.;A mother and her daughters are resting.;You are a 70-year-old Asian male with a high school education.;66;14;40
+A mother and her two children sit down to rest.;A mother and her daughters are resting.;You are a 70-year-old Asian male with a college education.;70;19;31
+A mother and her two children sit down to rest.;A mother and her daughters are resting.;You are a 70-year-old Asian male with a graduate school education.;76;10;34
+A mother and her two children sit down to rest.;A mother and her daughters are resting.;You are a 70-year-old Asian female with a high school education.;75;14;31
+A mother and her two children sit down to rest.;A mother and her daughters are resting.;You are a 70-year-old Asian female with a college education.;77;12;31
+A mother and her two children sit down to rest.;A mother and her daughters are resting.;You are a 70-year-old Asian female with a graduate school education.;84;5;31
