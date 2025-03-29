@@ -1,6 +1,6 @@
 # Introduction
 This is the github page for a project in the course Language and Artificial Intelligence from the Research Master Linguistics at Utrecht University. 
-The project analysed whether an LLM is able to reproduce human judgements of inferences. The project was done by Naomi Oppeneer and Maike Sjollema.
+The project analysed whether an LLM is able to reproduce human judgements of inferences. The authors are Naomi Oppeneer and Maike Sjollema.
 #
 
 # Contents
