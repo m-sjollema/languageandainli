@@ -8,7 +8,7 @@ This github page contains two RStudio markdown files ("entropy_sentence_selectio
 
 **NB: The file called "chaosNLI_snli.jsonl" was directly copied from the ChaosNLI database (Yixin et al., 2020) see full reference below**
 
-## Citation of Chaos database
+## Citation of ChaosNLI database
 #
 	@inproceedings{ynie2020chaosnli,
 	Author = {Yixin Nie and Xiang Zhou and Mohit Bansal},
