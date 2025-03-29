@@ -1,0 +1,43 @@
+---
+title: "entropy sentence selection"
+output: html_document
+date: "2025-03-14"
+---
+```{r}
+#installing json package
+install.packages("jsonlite")
+library(jsonlite)
+
+#loading data
+file_path <- "chaosNLI_snli.jsonl"
+json_data <- stream_in(file(file_path))
+
+#histogram
+hist(json_data$entropy)
+
+#entropy quantiles
+quantile(json_data$entropy, 0.33)
+quantile(json_data$entropy, 0.66)
+
+#new data sets
+lowentropy <- subset(json_data, entropy < 0.667073)
+midentropy <- subset(json_data, entropy >= 0.667073 & entropy <= 0.9698555)
+highentropy <- subset(json_data, entropy > 0.9698555)
+
+#select 33 sentences at random
+set.seed(123)
+
+low_entropy_sample <- lowentropy[sample(nrow(lowentropy), 33), ]
+medium_entropy_sample <- midentropy[sample(nrow(midentropy), 33), ]
+high_entropy_sample <- highentropy[sample(nrow(highentropy), 33), ]
+
+#combine into one data set
+combined_samples <- rbind(
+  cbind(low_entropy_sample, Entropy_Level = "Low"),
+  cbind(medium_entropy_sample, Entropy_Level = "Medium"),
+  cbind(high_entropy_sample, Entropy_Level = "High")
+)
+
+#save the combined dataset to a CSV file
+write.csv(combined_samples, "combined_samples.csv", row.names = FALSE)
+```
